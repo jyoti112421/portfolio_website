@@ -1,2 +1,2 @@
 # portfolio_website
-my first project
+My first repositories project
